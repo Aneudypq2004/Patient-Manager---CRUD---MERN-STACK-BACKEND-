@@ -1,0 +1,8 @@
+Patient Manager - CRUD -  MERN STACK(BACKEND)
+
+ENABLE:
+
+CREATE, READ, DELETE AND UPDATE
+
+
+FullStack App made with the MERN STACK
